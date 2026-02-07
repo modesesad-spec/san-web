@@ -1,0 +1,24 @@
+{
+  "system": {
+    "name": "🔥 JAILBREAK ULTIMATE SYSTEM",
+    "version": "3.0",
+    "developer": "SAN-GNT",
+    "description": "Web Generator Teks Jailbreak Otomatis dengan Custom Name, Random Panjang, dan Bahasa Indonesia"
+  },
+  "user": {
+    "default_nick": "BUJANG",
+    "default_style": "dramatis"
+  },
+  "features": {
+    "auto_random": true,
+    "module_system": true,
+    "history": true,
+    "export": true,
+    "base64_encode": true
+  },
+  "ui": {
+    "theme": "dark",
+    "animations": true,
+    "responsive": true
+  }
+}
